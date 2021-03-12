@@ -21,7 +21,7 @@
 * type: tutorial
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
-* next: story-activity1, clicker-activity1
+* next: story-activity1, clicker-activity1, collector-activity1
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
@@ -34,7 +34,7 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: story-activity2, clicker-activity1, collector-activity1
+* next: story-activity2
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
@@ -61,14 +61,6 @@
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity1.png
-
-
-
-
-## story
-* name: Tell Stories Using Arcade
-* description: Learn to tell engaging short stories using Microsoft MakeCode Arcade.
-* completionUrl: /static/skillmap/certificates/writing-stories.pdf
 
 
 
