@@ -34,7 +34,7 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: story-activity2, pusher1
+* next: pusher1, story-activity2
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
@@ -112,8 +112,8 @@
 * type: tutorial
 * description: Modify your clicker so that it's unmistakably yours! 
 * tags: easy, clicker, game
-* next: clicker-activity3
-* required: 1 clicker, pusher2
+* next: pusher2, clicker-activity3
+
 
 * url: /skillmap/clicker/clicker2 
 * imageUrl: /static/skillmap/clicker/clicker-activity2.png
