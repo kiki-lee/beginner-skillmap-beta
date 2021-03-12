@@ -100,6 +100,7 @@
 * type: tutorial
 * description: Write a short story with a scene of your own!
 * tags: easy, story, joke, creative
+* next: beginner-cert-1
 
 * url: /skillmap/story/story4 
 * imageUrl: /static/skillmap/story/story-activity4.png
@@ -141,23 +142,11 @@
 * type: tutorial
 * description: Make a simple store that lets players buy more power! 
 * tags: easy, clicker, game
-* next: clicker-activity5
+* next: beginner-cert-1
 
 * url: /skillmap/clicker/clicker4 
 * imageUrl: /static/skillmap/clicker/clicker-activity4.png
 
-
-
-### clicker-activity5
-
-* name: Bigger Clicker
-* type: tutorial
-* description: Make a simple store that lets players buy more power! 
-* tags: intermediate, clicker, game, sandbox
-
-
-* url: /skillmap/clicker/clicker5 
-* imageUrl: /static/skillmap/clicker/clicker-activity5.png
 
 
 
@@ -197,25 +186,12 @@
 * type: tutorial
 * description: Add extra lives to your collector game!
 * tags: easy, collector, game
-* next: collector-activity5
-
+* next: beginner-cert-1
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity4.png
 
-
-
-### collector-activity5
-
-* name: Go for Gusto
-* type: tutorial
-* description: Make your game super special by doing your own thing!
-* tags: intermediate, collector, game, sandbox
-
-
-* url: /skillmap/collector/collector5
-* imageUrl: /static/skillmap/collector/collector-activity5.png
-
-
-
-
+### beginner-cert-1
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
