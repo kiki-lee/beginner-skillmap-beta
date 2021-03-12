@@ -21,18 +21,15 @@
 * type: tutorial
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
+* next: story-activity1, clicker-activity1
+
+
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
 
 
 
-
-
-## Quick Example Games
-* name: Quick-Start Games
-* description:  Build your first games in less than 30 minutes!
-* completionUrl: /static/skillmap/certificates/getting-started.pdf
 
 
 ### story-activity1
