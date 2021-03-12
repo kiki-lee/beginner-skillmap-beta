@@ -152,16 +152,6 @@
 
 
 
-
-
-
-## Collector
-* name: Collector Game
-* description: Build a simple collector game in MakeCode Arcade!
-* completionUrl: /static/skillmap/certificates/collector-game.pdf
-
-
-
 ### collector-activity2
 
 * name: Collect the Fun
