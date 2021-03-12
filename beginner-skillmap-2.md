@@ -46,7 +46,7 @@
 * type: tutorial
 * description: Make a simple clicker game in MakeCode Arcade!
 * tags: easy, clicker, game
-* next: collector-activity1
+* next: clicker-activity2
 
 * url: /skillmap/clicker/clicker1 
 * imageUrl: /static/skillmap/clicker/clicker-activity1.png
@@ -58,6 +58,7 @@
 * type: tutorial
 * description: Make an arcade-style collector game!
 * tags: easy, collector, game
+* next: collector-activity2
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity1.png
@@ -98,14 +99,6 @@
 * url: /skillmap/story/story4 
 * imageUrl: /static/skillmap/story/story-activity4.png
 
-
-
-
-
-## clicker
-* name: Make a Clicker! 
-* description: Build and embellish a clicker game in MakeCode Arcade.
-* completionUrl: /static/skillmap/certificates/clicker-game.pdf
 
 
 ### clicker-activity2
