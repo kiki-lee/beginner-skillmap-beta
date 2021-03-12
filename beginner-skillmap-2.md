@@ -2,7 +2,7 @@
 * name: Beginner's Guide to Arcade Games
 * description: Learn to create arcade games of your own by completing these tutorials.
 * infoUrl: skillmap/educator-info/basic-map-info
-* backgroundurl: https://wallpapertag.com/wallpaper/middle/0/0/5/309780-8-bit-wallpaper-1920x1080-tablet.jpg
+* backgroundurl: /static/skillmap/story/story-activity-4.gif
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
 * tertiarycolor: #5c406c
