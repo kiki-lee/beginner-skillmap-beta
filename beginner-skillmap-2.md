@@ -23,12 +23,8 @@
 * tags: easy
 * next: story-activity1, clicker-activity1
 
-
-
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
-
-
 
 
 
@@ -38,7 +34,7 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: clicker-activity1
+* next: story-activity2, clicker-activity1, collector-activity1
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
