@@ -130,7 +130,7 @@
 * type: tutorial
 * description: Add code to make your simple clicker more powerful!
 * tags: easy, clicker, game
-* next: clicker-activity4
+* next: pusher2, clicker-activity4
 
 * url: /skillmap/clicker/clicker3 
 * imageUrl: /static/skillmap/clicker/clicker-activity3.png
@@ -192,6 +192,7 @@
 * imageUrl: /static/skillmap/collector/collector-activity4.png
 
 ### beginner-cert-1
+* name: Congrats!
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
