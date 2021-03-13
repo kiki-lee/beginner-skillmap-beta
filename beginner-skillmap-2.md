@@ -100,7 +100,7 @@
 * type: tutorial
 * description: Write a short story with a scene of your own!
 * tags: easy, story, joke, creative
-* next: beginner-cert-1
+* next: beginner-cert-1, clicker-activity2
 
 * url: /skillmap/story/story4 
 * imageUrl: /static/skillmap/story/story-activity4.png
