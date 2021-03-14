@@ -20,7 +20,7 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
-* next: space-activity1, platformer-activity1, pusher1
+* next: space-activity1, platformer-activity1
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/space/activity1.png
@@ -45,7 +45,7 @@
 * type: tutorial
 * description: Draw and code a spaceship!
 * tags: easy
-* next: space-activity2
+* next: space-activity2, pusher1
 
 * url: /skillmap/space/activity1
 * imageUrl: /static/skillmap/space/activity1.png
