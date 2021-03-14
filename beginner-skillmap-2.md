@@ -142,7 +142,7 @@
 * type: tutorial
 * description: Make a simple store that lets players buy more power! 
 * tags: easy, clicker, game
-* next: beginner-cert-1
+* next: beginner-cert-2
 
 * url: /skillmap/clicker/clicker4 
 * imageUrl: /static/skillmap/clicker/clicker-activity4.png
@@ -186,7 +186,7 @@
 * type: tutorial
 * description: Add extra lives to your collector game!
 * tags: easy, collector, game
-* next: beginner-cert-1
+* next: beginner-cert-3
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity4.png
