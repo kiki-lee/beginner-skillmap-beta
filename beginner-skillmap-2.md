@@ -21,10 +21,28 @@
 * type: tutorial
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
-* next: story-activity1, clicker-activity1, collector-activity1
+* next: story-activity1, clicker-activity1
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
+
+
+### pusher1
+* name: Blank node
+* kind: layout
+
+
+### pusher2
+* name: Blank node
+* kind: layout
+
+### pusher3
+* name: Blank node
+* kind: layout
+
+### pusher4
+* name: Blank node
+* kind: layout
 
 
 
@@ -34,39 +52,10 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: story-activity2
+* next: story-activity2, clicker-activity1
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
-
-
-### pusher1
-* name: Blank node
-* kind: layout
-
-
-### clicker-activity1
-
-* name: Clicker Game
-* type: tutorial
-* description: Make a simple clicker game in MakeCode Arcade!
-* tags: easy, clicker, game
-* next: clicker-activity2
-
-* url: /skillmap/clicker/clicker1 
-* imageUrl: /static/skillmap/clicker/clicker-activity1.png
-
-
-### collector-activity1
-
-* name: Collector Game
-* type: tutorial
-* description: Make an arcade-style collector game!
-* tags: easy, collector, game
-* next: collector-activity2
-
-* url: /skillmap/collector/collector1 
-* imageUrl: /static/skillmap/collector/collector-activity1.png
 
 
 
@@ -76,7 +65,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: story-activity3
+* next: pusher1, story-activity3
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
@@ -107,21 +96,30 @@
 
 
 
+### clicker-activity1
+
+* name: Clicker Game
+* type: tutorial
+* description: Make a simple clicker game in MakeCode Arcade!
+* tags: easy, clicker, game
+* next: clicker-activity2
+
+* url: /skillmap/clicker/clicker1 
+* imageUrl: /static/skillmap/clicker/clicker-activity1.png
+
+
+
 ### clicker-activity2
 
 * name: Grand Clicker
 * type: tutorial
 * description: Modify your clicker so that it's unmistakably yours! 
 * tags: easy, clicker, game
-* next: pusher2, clicker-activity3
+* next: clicker-activity3, collector-activity1
 
 
 * url: /skillmap/clicker/clicker2 
 * imageUrl: /static/skillmap/clicker/clicker-activity2.png
-
-### pusher2
-* name: Blank node
-* kind: layout
 
 
 ### clicker-activity3
@@ -142,10 +140,22 @@
 * type: tutorial
 * description: Make a simple store that lets players buy more power! 
 * tags: easy, clicker, game
-* next: beginner-cert-1
+* next: beginner-cert-2
 
 * url: /skillmap/clicker/clicker4 
 * imageUrl: /static/skillmap/clicker/clicker-activity4.png
+
+
+### collector-activity1
+
+* name: Collector Game
+* type: tutorial
+* description: Make an arcade-style collector game!
+* tags: easy, collector, game
+* next: pusher3, collector-activity2
+
+* url: /skillmap/collector/collector1 
+* imageUrl: /static/skillmap/collector/collector-activity1.png
 
 
 
@@ -186,12 +196,26 @@
 * type: tutorial
 * description: Add extra lives to your collector game!
 * tags: easy, collector, game
-* next: beginner-cert-1
+* next: beginner-cert-3
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity4.png
 
 ### beginner-cert-1
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+
+### beginner-cert-2
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+
+### beginner-cert-3
 * name: Congrats!
 * kind: completion
 * type: certificate

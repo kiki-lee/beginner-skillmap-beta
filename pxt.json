@@ -1,6 +1,6 @@
 {
     "name": "beginner skillmap beta",
-    "version": "0.0.19",
+    "version": "0.0.27",
     "description": "",
     "dependencies": {
         "device": "*"
