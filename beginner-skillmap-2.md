@@ -206,18 +206,18 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/story-cert.png
 
 ### beginner-cert-2
 * name: Congrats!
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/clicker-cert.png
 
 ### beginner-cert-3
 * name: Congrats!
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/collector-cert.png
