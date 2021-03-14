@@ -56,7 +56,7 @@
 * type: tutorial
 * description: Customize your ship with projectiles and effects.
 * tags: easy, projectiles, kinds
-* next: space-activity3, pusher2
+* next: pusher2, space-activity3
 
 * url: /skillmap/space/activity2
 * imageUrl: /static/skillmap/space/activity2.png
