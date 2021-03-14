@@ -27,6 +27,16 @@
 * imageUrl: /static/skillmap/interface/activity1.png
 
 
+### pusher1
+* name: Blank node
+* kind: layout
+
+
+### pusher2
+* name: Blank node
+* kind: layout
+
+
 
 ### story-activity1
 
@@ -38,35 +48,6 @@
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
-
-
-### pusher1
-* name: Blank node
-* kind: layout
-
-
-### clicker-activity1
-
-* name: Clicker Game
-* type: tutorial
-* description: Make a simple clicker game in MakeCode Arcade!
-* tags: easy, clicker, game
-* next: clicker-activity2
-
-* url: /skillmap/clicker/clicker1 
-* imageUrl: /static/skillmap/clicker/clicker-activity1.png
-
-
-### collector-activity1
-
-* name: Collector Game
-* type: tutorial
-* description: Make an arcade-style collector game!
-* tags: easy, collector, game
-* next: collector-activity2
-
-* url: /skillmap/collector/collector1 
-* imageUrl: /static/skillmap/collector/collector-activity1.png
 
 
 
@@ -107,21 +88,30 @@
 
 
 
+### clicker-activity1
+
+* name: Clicker Game
+* type: tutorial
+* description: Make a simple clicker game in MakeCode Arcade!
+* tags: easy, clicker, game
+* next: clicker-activity2
+
+* url: /skillmap/clicker/clicker1 
+* imageUrl: /static/skillmap/clicker/clicker-activity1.png
+
+
+
 ### clicker-activity2
 
 * name: Grand Clicker
 * type: tutorial
 * description: Modify your clicker so that it's unmistakably yours! 
 * tags: easy, clicker, game
-* next: pusher2, clicker-activity3
+* next: clicker-activity3
 
 
 * url: /skillmap/clicker/clicker2 
 * imageUrl: /static/skillmap/clicker/clicker-activity2.png
-
-### pusher2
-* name: Blank node
-* kind: layout
 
 
 ### clicker-activity3
@@ -146,6 +136,18 @@
 
 * url: /skillmap/clicker/clicker4 
 * imageUrl: /static/skillmap/clicker/clicker-activity4.png
+
+
+### collector-activity1
+
+* name: Collector Game
+* type: tutorial
+* description: Make an arcade-style collector game!
+* tags: easy, collector, game
+* next: collector-activity2
+
+* url: /skillmap/collector/collector1 
+* imageUrl: /static/skillmap/collector/collector-activity1.png
 
 
 
