@@ -2,7 +2,7 @@
 * name: Beginner's Guide to Arcade Games
 * description: Learn to create arcade games of your own by completing these tutorials.
 * infoUrl: skillmap/educator-info/basic-map-info
-* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/bg1a.png
+* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/bg1b.png
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
 * tertiarycolor: #009da2
@@ -34,7 +34,7 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: pusher1, story-activity2
+* next: story-activity2
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-activity1.png
@@ -100,7 +100,7 @@
 * type: tutorial
 * description: Write a short story with a scene of your own!
 * tags: easy, story, joke, creative
-* next: beginner-cert-1
+* next: beginner-cert-1, clicker-activity2
 
 * url: /skillmap/story/story4 
 * imageUrl: /static/skillmap/story/story-activity4.png
@@ -196,3 +196,4 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
