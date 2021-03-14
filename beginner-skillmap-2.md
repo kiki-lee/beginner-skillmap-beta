@@ -65,7 +65,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: pusher1, story-activity3, clicker-activity1
+* next: story-activity3, clicker-activity1
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
