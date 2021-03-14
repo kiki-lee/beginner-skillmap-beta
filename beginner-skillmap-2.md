@@ -197,3 +197,17 @@
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 * imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+
+### beginner-cert-2
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+
+### beginner-cert-3
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
