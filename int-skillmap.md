@@ -3,9 +3,9 @@
 * description: Level up your game making skills by completing the tutorials in this guide.
 * infoUrl: skillmap/educator-info/int-map-info
 * backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/bg1b.png  
-* primarycolor: #ff7f41
-* secondarycolor: #fff53d
-* tertiarycolor: #009da2
+* primarycolor: #e6cdc5
+* secondarycolor: #7df3fe
+* tertiarycolor: #5d406b
 * allowcodecarryover: true
 
 
@@ -139,7 +139,7 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/space-cert.png
 
 
 ### beginner-cert-2
@@ -147,4 +147,4 @@
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/award.gif
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/platformer-cert.png
