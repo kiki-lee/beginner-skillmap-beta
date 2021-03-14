@@ -102,7 +102,7 @@
 * type: tutorial
 * description: Make a simple clicker game in MakeCode Arcade!
 * tags: easy, clicker, game
-* next: clicker-activity2
+* next: clicker-activity2, collector-activity1
 
 * url: /skillmap/clicker/clicker1 
 * imageUrl: /static/skillmap/clicker/clicker-activity1.png
@@ -115,7 +115,7 @@
 * type: tutorial
 * description: Modify your clicker so that it's unmistakably yours! 
 * tags: easy, clicker, game
-* next: clicker-activity3, collector-activity1
+* next: clicker-activity3
 
 
 * url: /skillmap/clicker/clicker2 
