@@ -36,6 +36,14 @@
 * name: Blank node
 * kind: layout
 
+### pusher3
+* name: Blank node
+* kind: layout
+
+### pusher4
+* name: Blank node
+* kind: layout
+
 
 
 ### story-activity1
@@ -57,7 +65,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: story-activity3
+* next: story-activity3, pusher1
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
@@ -120,7 +128,7 @@
 * type: tutorial
 * description: Add code to make your simple clicker more powerful!
 * tags: easy, clicker, game
-* next: pusher1, clicker-activity4
+* next: pusher2, clicker-activity4
 
 * url: /skillmap/clicker/clicker3 
 * imageUrl: /static/skillmap/clicker/clicker-activity3.png
@@ -144,7 +152,7 @@
 * type: tutorial
 * description: Make an arcade-style collector game!
 * tags: easy, collector, game
-* next: pusher2, collector-activity2
+* next: pusher3, collector-activity2
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity1.png
