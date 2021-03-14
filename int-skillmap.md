@@ -20,6 +20,7 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
+* next: space-activity1, platformer-activity1
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/space/activity1.png
