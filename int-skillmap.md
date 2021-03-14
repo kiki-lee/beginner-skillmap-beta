@@ -2,7 +2,11 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * infoUrl: skillmap/educator-info/int-map-info
-
+* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/bg1b.png  
+* primarycolor: #ff7f41
+* secondarycolor: #fff53d
+* tertiarycolor: #009da2
+* allowcodecarryover: true
 
 
 ## interface
@@ -19,13 +23,6 @@
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/space/activity1.png
-
-
-
-## space
-* name: Design a Space Explorer
-* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
-* completionUrl: /static/skillmap/certificates/design-a-space-explorer.pdf
 
 
 ### pusher1
