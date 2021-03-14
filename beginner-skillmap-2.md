@@ -120,7 +120,7 @@
 * type: tutorial
 * description: Add code to make your simple clicker more powerful!
 * tags: easy, clicker, game
-* next: pusher2, clicker-activity4
+* next: pusher1, clicker-activity4
 
 * url: /skillmap/clicker/clicker3 
 * imageUrl: /static/skillmap/clicker/clicker-activity3.png
@@ -144,7 +144,7 @@
 * type: tutorial
 * description: Make an arcade-style collector game!
 * tags: easy, collector, game
-* next: collector-activity2
+* next: pusher2, collector-activity2
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity1.png
