@@ -78,6 +78,7 @@
 * type: tutorial
 * description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
 * tags: intermediate, extensions
+* next: beginner-cert-1
 
 
 * url: /skillmap/space/activity4
@@ -133,6 +134,7 @@
 * url: /skillmap/platformer/activity5
 * imageUrl: /static/skillmap/platformer/activity5.png
 * tags: intermediate, AI, physics
+* next: beginner-cert-2
 
 
 ### beginner-cert-1
