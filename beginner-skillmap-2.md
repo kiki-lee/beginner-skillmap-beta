@@ -21,7 +21,7 @@
 * type: tutorial
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
-* next: story-activity1, clicker-activity1
+* next: story-activity1
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
