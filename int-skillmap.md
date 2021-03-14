@@ -114,7 +114,7 @@
 * url: /skillmap/platformer/activity3
 * imageUrl: /static/skillmap/platformer/activity3.png
 * tags: intermediate, overlaps
-* next: platformer-activity4, pusher3
+* next: pusher3, platformer-activity4
 
 ### platformer-activity4
 
