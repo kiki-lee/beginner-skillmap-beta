@@ -76,6 +76,15 @@
 * imageUrl: /static/skillmap/space/activity4.png
 
 
+### pusher1
+* name: Blank node
+* kind: layout
+
+### pusher2
+* name: Blank node
+* kind: layout
+
+
 ## interface3
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
@@ -148,13 +157,6 @@
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 * imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/platformer-cert.png
 
-### pusher1
-* name: Blank node
-* kind: layout
-
-### pusher2
-* name: Blank node
-* kind: layout
 
 
 ### pusher3
