@@ -22,12 +22,22 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
+* next: pusher0, pusher01
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
 
 
-## interface2
+### pusher0
+* name: Blank node
+* kind: layout
+
+### pusher01
+* name: Blank node
+* kind: layout
+
+
+## space
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
@@ -96,7 +106,7 @@
 * kind: layout
 
 
-## interface3
+## platformer
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
