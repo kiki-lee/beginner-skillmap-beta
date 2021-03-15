@@ -22,7 +22,7 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
-* next: pusher0, pusher01
+* next: pusher0, pusher01, pusher02
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
@@ -33,6 +33,10 @@
 * kind: layout
 
 ### pusher01
+* name: Blank node
+* kind: layout
+
+### pusher02
 * name: Blank node
 * kind: layout
 
