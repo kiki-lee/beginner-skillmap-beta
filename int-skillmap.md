@@ -20,10 +20,14 @@
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
-* next: space-activity1, platformer-activity1
 
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
+
+## interface2
+* name: Learn to use MakeCode Arcade
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 
 
 ### pusher1
@@ -38,6 +42,8 @@
 ### pusher3
 * name: Blank node
 * kind: layout
+
+
 
 ### space-activity1
 
