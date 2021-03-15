@@ -76,6 +76,15 @@
 * imageUrl: /static/skillmap/space/activity4.png
 
 
+### beginner-cert-1
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
+* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/space-cert.png
+
+
+
 ### pusher1
 * name: Blank node
 * kind: layout
@@ -141,13 +150,6 @@
 * tags: intermediate, AI, physics
 * next: beginner-cert-2
 
-
-### beginner-cert-1
-* name: Congrats!
-* kind: completion
-* type: certificate
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/space-cert.png
 
 
 ### beginner-cert-2
