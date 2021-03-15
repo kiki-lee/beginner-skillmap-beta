@@ -7,6 +7,7 @@
 * secondarycolor: #7df3fe
 * tertiarycolor: #5d406b
 * allowcodecarryover: true
+* imageUrl: /static/skillmap/interface/activity1.png
 
 
 ## interface
