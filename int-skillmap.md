@@ -24,13 +24,11 @@
 * url: /static/skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/activity1.png
 
+
 ## interface2
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-
-
-
 
 
 ### space-activity1
@@ -74,10 +72,14 @@
 * tags: intermediate, extensions
 * next: beginner-cert-1
 
-
 * url: /skillmap/space/activity4
 * imageUrl: /static/skillmap/space/activity4.png
 
+
+## interface3
+* name: Learn to use MakeCode Arcade
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 
 
 ### platformer-activity1
