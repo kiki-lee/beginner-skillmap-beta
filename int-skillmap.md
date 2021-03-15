@@ -30,18 +30,6 @@
 * completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 
 
-### pusher1
-* name: Blank node
-* kind: layout
-
-### pusher2
-* name: Blank node
-* kind: layout
-
-
-### pusher3
-* name: Blank node
-* kind: layout
 
 
 
@@ -157,3 +145,16 @@
 * type: certificate
 * url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 * imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/platformer-cert.png
+
+### pusher1
+* name: Blank node
+* kind: layout
+
+### pusher2
+* name: Blank node
+* kind: layout
+
+
+### pusher3
+* name: Blank node
+* kind: layout
