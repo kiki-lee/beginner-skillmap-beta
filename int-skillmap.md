@@ -7,6 +7,7 @@
 * primarycolor: #e6cdc5
 * secondarycolor: #7df3fe
 * tertiarycolor: #5d406b
+* highlightcolor: #ffffff
 * allowcodecarryover: true
 
 
