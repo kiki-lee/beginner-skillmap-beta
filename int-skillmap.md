@@ -2,7 +2,7 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * infoUrl: skillmap/educator-info/int-map-info
-* bannerUrl: /static/skillmap/platformer/activity1.png
+* bannerUrl: /static/skillmap/story/story4.png
 * backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/bgb1.png  
 * primarycolor: #e6cdc5
 * secondarycolor: #7df3fe
