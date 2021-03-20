@@ -12,7 +12,8 @@
         "assets.json",
         "beginner-skillmap-2.md",
         "tutorial-info-cache.json",
-        "int-skillmap.md"
+        "int-skillmap.md",
+        "conflicted.md"
     ],
     "testFiles": [
         "test.ts"
