@@ -73,13 +73,6 @@
     * next: space-cert-1
 
 
-    ### space-cert-1
-    * name: Congrats!
-    * kind: completion
-    * type: certificate
-    * url: /static/skillmap/certificates/design-a-space-explorer.pdf
-    * imageUrl: /static/skillmap/certificates/space-cert.png
-
     ### pusher1
     * name: Blank node
     * kind: layout
@@ -87,6 +80,14 @@
     ### pusher2
     * name: Blank node
     * kind: layout
+
+
+    ### space-cert-1
+    * name: Congrats!
+    * kind: completion
+    * type: certificate
+    * url: /static/skillmap/certificates/design-a-space-explorer.pdf
+    * imageUrl: /static/skillmap/certificates/space-cert.png
 
 
 ## platformer
@@ -145,6 +146,10 @@
     * next: platformer-cert-1
 
 
+    ### pusher3
+    * name: Blank node
+    * kind: layout
+
     ### platformer-cert-1
     * name: Congrats!
     * kind: completion
@@ -153,6 +158,3 @@
     * imageUrl: /static/skillmap/certificates/platformer-cert.png
 
 
-    ### pusher3
-    * name: Blank node
-    * kind: layout
