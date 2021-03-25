@@ -17,6 +17,8 @@
 * description: Start here if you want to know the ins and outs of Arcade tutorials!
 
 ### interface-activity1
+* allowcodecarryover: false
+
 
 * name: Get to Know MakeCode Arcade
 * type: tutorial
@@ -48,6 +50,8 @@
 
 
 ### story-activity1
+* allowcodecarryover: false
+
 
 * name: Greeting Card
 * type: tutorial
@@ -56,7 +60,7 @@
 * next: story-activity2, clicker-activity1
 
 * url: /skillmap/story/story1 
-* imageUrl: /static/skillmap/story/story-activity1.png
+* imageUrl: /static/skillmap/story/card.gif
 
 
 
@@ -70,7 +74,7 @@
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
-* imageUrl: /static/skillmap/story/story-activity2.png
+* imageUrl: /static/skillmap/story/story-activity-2.gif
 
 ### story-activity3
 
@@ -81,7 +85,7 @@
 * next: story-activity4
 
 * url: /skillmap/story/story3 
-* imageUrl: /static/skillmap/story/story-activity3.png
+* imageUrl: /static/skillmap/story/muffins.gif
 
 
 ### story-activity4
@@ -93,11 +97,13 @@
 * next: beginner-cert-1
 
 * url: /skillmap/story/story4 
-* imageUrl: /static/skillmap/story/story-activity4.png
+* imageUrl: /static/skillmap/story/story-activity-4.gif
 
 
 
 ### clicker-activity1
+* allowcodecarryover: false
+
 
 * name: Clicker Game
 * type: tutorial
@@ -106,7 +112,7 @@
 * next: clicker-activity2, collector-activity1
 
 * url: /skillmap/clicker/clicker1 
-* imageUrl: /static/skillmap/clicker/clicker-activity1.png
+* imageUrl: /static/skillmap/clicker/clicker-activity-1.gif
 
 
 
@@ -120,7 +126,7 @@
 
 
 * url: /skillmap/clicker/clicker2 
-* imageUrl: /static/skillmap/clicker/clicker-activity2.png
+* imageUrl: /static/skillmap/clicker/clicker-activity-2.gif
 
 
 ### clicker-activity3
@@ -132,7 +138,7 @@
 * next: pusher2, clicker-activity4
 
 * url: /skillmap/clicker/clicker3 
-* imageUrl: /static/skillmap/clicker/clicker-activity3.png
+* imageUrl: /static/skillmap/clicker/clicker-activity-3.gif
 
 
 ### clicker-activity4
@@ -144,10 +150,12 @@
 * next: beginner-cert-2
 
 * url: /skillmap/clicker/clicker4 
-* imageUrl: /static/skillmap/clicker/clicker-activity4.png
+* imageUrl: /static/skillmap/clicker/clicker-activity-4.gif
 
 
 ### collector-activity1
+* allowcodecarryover: false
+
 
 * name: Collector Game
 * type: tutorial
@@ -156,7 +164,7 @@
 * next: pusher3, collector-activity2
 
 * url: /skillmap/collector/collector1 
-* imageUrl: /static/skillmap/collector/collector-activity1.png
+* imageUrl: /static/skillmap/collector/collector-activity-1.gif
 
 
 
@@ -172,7 +180,7 @@
 
 
 * url: /skillmap/collector/collector2 
-* imageUrl: /static/skillmap/collector/collector-activity2.png
+* imageUrl: /static/skillmap/collector/collector-activity-2.gif
 
 
 
@@ -186,7 +194,7 @@
 
 
 * url: /skillmap/collector/collector3
-* imageUrl: /static/skillmap/collector/collector-activity3.png
+* imageUrl: /static/skillmap/collector/collector-activity-3.gif
 
 
 
@@ -200,25 +208,25 @@
 * next: beginner-cert-3
 
 * url: /skillmap/collector/collector4
-* imageUrl: /static/skillmap/collector/collector-activity4.png
+* imageUrl: /static/skillmap/collector/collector-activity-4.gif
 
 ### beginner-cert-1
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/story-cert.png
+* url: /static/skillmap/certificates/writing-stories.pdf
+* imageUrl: /static/skillmap/certificates/story-cert.png
 
 ### beginner-cert-2
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/clicker-cert.png
+* url: /static/skillmap/certificates/clicker-game.pdf
+* imageUrl: /static/skillmap/certificates/clicker-cert.png
 
 ### beginner-cert-3
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
-* imageUrl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/static/collector-cert.png
+* url: /static/skillmap/certificates/collector-game.pdf
+* imageUrl: /static/skillmap/certificates/collector-cert.png
