@@ -56,7 +56,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: pusher1, story-activity3
+* next: story-activity3
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
@@ -197,7 +197,7 @@
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
 * tags: easy, collector, game
-* next: collector-activity4
+* next: pusher4, collector-activity4
 
 * url: /skillmap/collector-themed/collectort3
 * imageUrl: /static/skillmap/collector/collectort3.gif
