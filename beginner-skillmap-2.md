@@ -185,7 +185,7 @@
 * description: Make a few simple changes for a game that's twice as fun! 
 * tags: easy, collector, game
 * required: 1 collector
-* next: collector-activity3
+* next: collector-activity3, pusher4
 
 * url: /skillmap/collector-themed/collectort2 
 * imageUrl: /static/skillmap/collector/collectort2.gif
