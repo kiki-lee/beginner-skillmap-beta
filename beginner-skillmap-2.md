@@ -9,7 +9,7 @@
 * tertiarycolor: #009da2
 * highlightcolor: #ffffff
 * allowcodecarryover: true
-* tags: easy, tutorials
+* tags: easy, beginner, tutorials
 
 
 
@@ -22,8 +22,8 @@
 
 * name: Get to Know MakeCode Arcade
 * type: tutorial
-* description: Intro to the features and vocabulary used in Arcade tutorials.
-* tags: easy
+* description: An optional introduction to the features and vocabulary used in Arcade tutorials.
+* tags: optional, easy, introduction
 * next: pusherA, pusherB
 
 * url: /skillmap/interface/activity1 
@@ -50,7 +50,7 @@
 * name: Greeting Card
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
-* tags: easy, story, creative
+* tags: easy, story, creative, card
 * next: story-activity2
 
 * url: /skillmap/story/story1 
@@ -61,7 +61,7 @@
 * name: Bigger Greeting
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
-* tags: easy, card, creative
+* tags: easy, card, creative, art
 * next: story-activity3
 * reqired: 1 story
 
@@ -73,7 +73,7 @@
 * name: Joking Around
 * type: tutorial
 * description: Create your first Arcade story using a two-line joke!
-* tags: easy, story, joke
+* tags: easy, story, joke, share
 * next: pusher2, story-activity4
 
 * url: /skillmap/story/story3 
@@ -84,7 +84,7 @@
 * name: Shortest Story
 * type: tutorial
 * description: Write a short story with a scene of your own!
-* tags: easy, story, joke, creative
+* tags: easy, story, creative
 * next: beginner-cert-1
 
 * url: /skillmap/story/story4 
@@ -128,8 +128,8 @@
 ### clicker-activity2
 * name: Grand Clicker
 * type: tutorial
-* description: Modify your clicker so that it's unmistakably yours! 
-* tags: easy, clicker, game
+* description: Add a visual button to your clicker! 
+* tags: easy, clicker, game, images
 * next: pusher3, clicker-activity3
 
 * url: /skillmap/clicker-themed/clickert2 
@@ -139,8 +139,8 @@
 ### clicker-activity3
 * name: Super Clicker
 * type: tutorial
-* description: Add code to make your simple clicker more powerful!
-* tags: easy, clicker, game
+* description: Add code to make a spray of stars with each click!
+* tags: easy, clicker, projectiles
 * next: pusher3, beginner-cert-2
 
 * url: /skillmap/clicker-themed/clickert3 
@@ -187,7 +187,7 @@
 * name: Collect the Fun
 * type: tutorial
 * description: Make a few simple changes for a game that's twice as fun! 
-* tags: easy, collector, game
+* tags: easy, collector, game, projectiles
 * next: collector-activity3
 
 * url: /skillmap/collector-themed/collectort2 
@@ -199,7 +199,7 @@
 * name: Experience Danger
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
-* tags: easy, collector, game
+* tags: easy, collector, game, collisions
 * next: collector-activity4
 
 * url: /skillmap/collector-themed/collectort3
