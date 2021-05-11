@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.4.41/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.77","target":"arcade","targetVersion":"1.4.41","repo":"kiki-lee/beginner-skillmap-beta"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.4.41/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.78","target":"arcade","targetVersion":"1.4.41","repo":"kiki-lee/beginner-skillmap-beta"}
 // total=1136041 new=6.24% cached=88.12% other=5.65%
 (function (ectx) {
 'use strict';
@@ -383,7 +383,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P32894(s) {
+function _main___P32993(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -751,13 +751,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P32894.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P32894.continuations = [  ]
+_main___P32993.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P32993.continuations = [  ]
 
-function _main___P32894_mk(s) {
+function _main___P32993_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P32894, depth: s.depth + 1,
+        parent: s, fn: _main___P32993, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -38778,5 +38778,5 @@ const sprites_StaticObstacle__C18529_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P32894
+return _main___P32993
 })
