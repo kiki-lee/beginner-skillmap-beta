@@ -113,7 +113,7 @@
 * type: tutorial
 * description: Make a simple clicker game in MakeCode Arcade!
 * tags: easy, clicker, game
-* next: clicker-activity2
+* next: pusher3, clicker-activity2
 
 * url: /skillmap/clicker-themed/clickert1 
 * imageUrl: /static/skillmap/clicker/clickert1.gif
@@ -126,7 +126,7 @@
 * type: tutorial
 * description: Modify your clicker so that it's unmistakably yours! 
 * tags: easy, clicker, game
-* next: clicker-activity3
+* next: clicker-activity3, pusher4
 
 
 * url: /skillmap/clicker-themed/clickert2 
@@ -139,7 +139,7 @@
 * type: tutorial
 * description: Add code to make your simple clicker more powerful!
 * tags: easy, clicker, game
-* next: pusher3, beginner-cert-2
+* next: beginner-cert-2
 
 * url: /skillmap/clicker-themed/clickert3 
 * imageUrl: /static/skillmap/clicker/clickert3.gif
@@ -185,7 +185,7 @@
 * description: Make a few simple changes for a game that's twice as fun! 
 * tags: easy, collector, game
 * required: 1 collector
-* next: collector-activity3, pusher4
+* next: collector-activity3, pusher5
 
 * url: /skillmap/collector-themed/collectort2 
 * imageUrl: /static/skillmap/collector/collectort2.gif
@@ -197,7 +197,7 @@
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
 * tags: easy, collector, game
-* next: pusher4, collector-activity4
+* next: pusher5, collector-activity4
 
 * url: /skillmap/collector-themed/collectort3
 * imageUrl: /static/skillmap/collector/collectort3.gif
