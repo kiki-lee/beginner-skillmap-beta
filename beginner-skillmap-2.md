@@ -43,7 +43,7 @@
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
 * tags: easy, story, card, creative
-* next: pusher1, story-activity2
+* next: story-activity2
 
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/card.gif
@@ -56,7 +56,7 @@
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
 * tags: easy, card, gift, creative
-* next: story-activity3, pusher2
+* next: pusher1, story-activity3
 * reqired: 1 story
 
 * url: /skillmap/story/story2 
