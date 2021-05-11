@@ -226,6 +226,6 @@
 * imageUrl: /static/skillmap/certificates/collector-cert.png
 
 
-### pusher4
+### pusher5
 * name: Blank node
 * kind: layout
