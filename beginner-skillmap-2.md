@@ -25,9 +25,22 @@
 * type: tutorial
 * description: Intro to the features and vocabulary used in Arcade tutorials.
 * tags: easy
+* next: pusherA, pusherB, pusherC
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/interface-activity-1.gif
+
+### pusherA
+* name: Blank node
+* kind: layout
+
+### pusherB
+* name: Blank node
+* kind: layout
+
+### pusherC
+* name: Blank node
+* kind: layout
 
 
 ## Stories
