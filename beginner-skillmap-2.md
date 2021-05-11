@@ -185,7 +185,7 @@
 * description: Make a few simple changes for a game that's twice as fun! 
 * tags: easy, collector, game
 * required: 1 collector
-* next: collector-activity3, pusher6
+* next: collector-activity3
 
 * url: /skillmap/collector-themed/collectort2 
 * imageUrl: /static/skillmap/collector/collectort2.gif
@@ -197,7 +197,7 @@
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
 * tags: easy, collector, game
-* next: collector-activity4, pusher7
+* next: collector-activity4
 
 * url: /skillmap/collector-themed/collectort3
 * imageUrl: /static/skillmap/collector/collectort3.gif
@@ -210,12 +210,10 @@
 * type: tutorial
 * description: Animate your characters to give them life!
 * tags: easy, game, animation
-* next: beginner-cert-3, pusher6
+* next: beginner-cert-3, pusher6, pusher7, pusher8
 
 * url: /skillmap/collector-themed/collectort4
 * imageUrl: /static/skillmap/collector/collectort4.gif
-
-
 
 
 ### beginner-cert-3
@@ -230,11 +228,14 @@
 * name: Blank node
 * kind: layout
 
-
 ### pusher6
 * name: Blank node
 * kind: layout
 
 ### pusher7
+* name: Blank node
+* kind: layout
+
+### pusher8
 * name: Blank node
 * kind: layout
