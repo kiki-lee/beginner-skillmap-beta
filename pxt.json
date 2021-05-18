@@ -15,7 +15,7 @@
         "int-skillmap.md",
         "conflicted.md",
         "beg-skillmap-split.md",
-        "beg-comp.png.ts"
+        "beg-comp.png"
     ],
     "testFiles": [
         "test.ts"
