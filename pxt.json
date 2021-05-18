@@ -14,7 +14,8 @@
         "tutorial-info-cache.json",
         "int-skillmap.md",
         "conflicted.md",
-        "beg-skillmap-split.md"
+        "beg-skillmap-split.md",
+        "beg-comp.png.ts"
     ],
     "testFiles": [
         "test.ts"
